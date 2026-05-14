@@ -63,3 +63,4 @@ RTOS/裸机迁移预留应关注：
 - 对独立性有要求时，作者和审查人不能相同。
 - 任何未通过项必须关联 `ISSUE-*`，并记录关闭证据。
 - 验证结果必须包含环境、版本、输入、预期结果、实际结果和结论。
+- 对**源代码**按 [01_coding_standard.md](../assets/templates/01_coding_standard.md) 中 `CS-*` 逐项核对时，使用 [13_code_review_against_standard.md](../assets/templates/13_code_review_against_standard.md) 记录逐条结论与证据；汇总批准与关单仍写入 [07_code_review.md](../assets/templates/07_code_review.md)。

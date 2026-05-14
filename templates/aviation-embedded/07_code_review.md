@@ -9,6 +9,8 @@
 | 审查人 | TBD |
 | 状态 | Draft |
 
+若需对照 [01_coding_standard.md](01_coding_standard.md) 全部 `CS-*` 做走查并登记工具证据，请先填写或附上 [13_code_review_against_standard.md](13_code_review_against_standard.md)，再在本表记录结论与 `ISSUE-*`。
+
 ## 1. 审查范围
 
 | 文件/模块 | 关联需求 | 关联设计 | 关联测试 |
