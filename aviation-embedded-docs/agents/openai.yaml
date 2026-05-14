@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aviation Embedded Docs"
+  short_description: "Aviation embedded Markdown docs"
+  default_prompt: "Create or review a DO-178C-style Markdown document set for an aviation embedded software module."
