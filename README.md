@@ -51,4 +51,4 @@
 
 将 `templates/aviation-embedded/` 复制到具体项目的文档目录，按项目模块逐步填写。需求、设计、代码和测试发生变化时，同步更新 `11_traceability_matrix.md` 和 `12_change_impact_analysis.md`。
 
-如果要让 Codex 自动发现该 Skill，可将 `aviation-embedded-docs/` 复制到 `C:\Users\caojun\.codex\skills\`。
+如果要让 Codex 自动发现该 Skill，可将 `aviation-embedded-docs/` 复制到 `C:\Users\xxx\.codex\skills\`。
